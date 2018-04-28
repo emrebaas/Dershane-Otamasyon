@@ -1,0 +1,43 @@
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe.config
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.pdb
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.exe
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.pdb
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.giris_form.resources
+c:\users\emre\documents\visual studio 2013\Projects\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Form2.resources
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe.config
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.exe
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.pdb
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.pdb
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.giris_form.resources
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Form2.resources
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Properties.Resources.resources
+C:\Users\besil\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe.config
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.exe
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.pdb
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.pdb
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.giris_form.resources
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Form2.resources
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Properties.Resources.resources
+C:\Users\Emre\Desktop\veri tabanı\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csproj.GenerateResource.Cache
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe.config
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.exe
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.pdb
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.pdb
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.giris_form.resources
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Form2.resources
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.Properties.Resources.resources
+C:\Users\emre\Desktop\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.csproj.GenerateResource.Cache
+C:\Users\emre\Desktop\Dershane Öğrenci Takip Otomasyonu\dershane_otomasyon\dershane_otomasyon\bin\Debug\dershane_otomasyon.exe.config
+C:\Users\emre\Desktop\Dershane Öğrenci Takip Otomasyonu\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.exe
+C:\Users\emre\Desktop\Dershane Öğrenci Takip Otomasyonu\dershane_otomasyon\dershane_otomasyon\obj\Debug\dershane_otomasyon.pdb
